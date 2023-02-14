@@ -1,18 +1,11 @@
-## Getting Started
+# Introduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a GUI project in VS Code. The project uses JButtons to generate promps. It rolls a variety of dice, generates different character stats for Dungeons and Dragons characters, and it also can generate prompts for encounters. The dice function can be used for any Table Top RolePlaying Game, however it was primarily made for Dungeons and Dragons. 
 
-## Folder Structure
+# Languages
 
-The workspace contains two folders by default, where:
+`Java`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Collaboration
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+I am always open to collaborate on fun projects!
